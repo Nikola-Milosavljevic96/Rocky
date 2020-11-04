@@ -1,3 +1,3 @@
-# Rocky ASP.NET CORE | SQL SERVER MANAGEMENT STUDIO
+# ASP.NET Core | SQL Server Management Studio
 
 Web application with CRUD operations
